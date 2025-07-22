@@ -19,3 +19,8 @@
 - For this task, you are only required to draft the questions (4 for CMO and 4 for CEO). Make sure to think both quantitatively and qualitatively.
 - You’ve been provided a dataset in the resources below to use as the basis for your exploration. Review this data, taking note of what information has been provided, what insights you can garner, and what is relevant to both the CEO and CMO respectively.
 
+## Task 2
+> Summary
+In this task, you will be required to read the questions carefully and understand that business requirement. Once you have an idea of what is required from the perspective of the CEO and CMO, you will need to come up with the perfect visual which will illustrate what the senior managers are looking for in each scenario. Remember, data can be presented in multiple types of charts, but you are required to select the visual that would best display the information which is being presented.
+
+
