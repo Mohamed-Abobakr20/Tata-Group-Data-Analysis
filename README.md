@@ -33,5 +33,6 @@
 > Data Cleaning Steps
 
 You have noticed that the data contains some returns to the store which are provided in negative quantities and there are unit prices which were input in error. You will need to perform the following steps to clean this data.
+- Removing duplicate rows
 - Create a check that the quantity should not be below 1 unit
 - Create a check that the Unit price should not be below $0
