@@ -1,0 +1,14 @@
+CEO
+
+1- Which products contribute the most to total revenue?
+2- Which countries generate the most and least revenue?
+3- What time periods (months or seasons) show the highest sales trends and potential for business expansion?
+4- Who are the top customers, and how much do they contribute?
+
+
+CMO
+
+1- What % of customers are repeat buyers? What do they reorder?
+2- How long between repeat purchases?
+3- How much revenue comes from repeat customers?
+4- What products are most popular in specific countries?
